@@ -1,0 +1,27 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.navbar {
+    background-color: rgb(214, 191, 255)
+}
+
+.sobre-mim{
+    background-color: rgb(67, 0, 129);
+    color:white
+}
+
+.projetos{
+    background-color: rgb(210, 217, 255);
+    color:rgb(74, 0, 143)
+}
+
+.margin {
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.bg-footer {
+    background-color: black;
+    color:rgb(214, 191, 255)
+}
